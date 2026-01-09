@@ -1,0 +1,11 @@
+{
+    "version": "2025-01-09T12:00:00Z",
+    "domains": [
+        "example-scam.lv",
+        "test-block.com"
+    ],
+    "urls": [
+        "facebook.com/groups/fake-group",
+        "instagram.com/bad.account"
+    ]
+}
