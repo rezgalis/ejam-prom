@@ -1,0 +1,12 @@
+{
+    "example-scam.lv": {
+        "source": "ptac",
+        "reason": "Testa brīdinājums",
+        "added": "2025-01-09"
+    },
+    "test-block.com": {
+        "source": "manual",
+        "reason": "Manuāls tests",
+        "added": "2025-01-09"
+    }
+}
