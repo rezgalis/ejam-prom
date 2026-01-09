@@ -1,12 +1,42 @@
 {
-    "example-scam.lv": {
+    "biancagrup24.com": {
         "source": "ptac",
-        "reason": "Testa brīdinājums",
-        "added": "2025-01-09"
+        "reason": "Aizdomīgie interneta un saziņas objekti",
+        "added": "2025-10-31"
     },
-    "test-block.com": {
-        "source": "manual",
-        "reason": "Manuāls tests",
-        "added": "2025-01-09"
+    "balticstock.shop": {
+        "source": "ptac",
+        "reason": "Aizdomīgie interneta un saziņas objekti",
+        "added": "2024-11-08"
+    },
+    "ormebeles.online": {
+        "source": "ptac",
+        "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
+        "added": "2026-01-06"
+    },
+    "ormebeles.eu": {
+        "source": "ptac",
+        "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
+        "added": "2026-01-06"
+    },
+    "piedzivojumi.org": {
+        "source": "ptac",
+        "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
+        "added": "2026-01-06"
+    },
+    "piedzivojums.lv": {
+        "source": "ptac",
+        "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
+        "added": "2026-01-06"
+    },
+    "piedzivojumi.com": {
+        "source": "ptac",
+        "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
+        "added": "2026-01-06"
+    },
+    "sportnet.lv": {
+        "source": "ptac",
+        "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
+        "added": "2026-01-06"
     }
 }
