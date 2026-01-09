@@ -11,6 +11,12 @@
         "reason": "Aizdomīgie interneta un saziņas objekti",
         "added": "2024-11-08"
     },
+    "europestock.net": {
+        "author": "Kopienas info",
+        "reference": "https://registri.ptac.gov.lv/registri/aizdomigie-interneta-un-sazinas-objekti",
+        "reason": "Vietne ir jaunā balticstock.shop versija, kas ir aizdomīgajos interneta un saziņas objektos",
+        "added": "2026-01-09"
+    },
     "ormebeles.online": {
         "author": "PTAC",
         "reference": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
@@ -54,3 +60,4 @@
         "added": "2026-01-06"
     }
 }
+
