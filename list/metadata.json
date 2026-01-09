@@ -1,48 +1,50 @@
 {
     "biancagrup24.com": {
-        "source": "https://registri.ptac.gov.lv/registri/aizdomigie-interneta-un-sazinas-objekti",
+        "author": "PTAC",
+        "reference": "https://registri.ptac.gov.lv/registri/aizdomigie-interneta-un-sazinas-objekti",
         "reason": "Aizdomīgie interneta un saziņas objekti",
         "added": "2025-10-31"
     },
     "balticstock.shop": {
-        "source": "https://registri.ptac.gov.lv/registri/aizdomigie-interneta-un-sazinas-objekti",
+        "author": "PTAC",
+        "reference": "https://registri.ptac.gov.lv/registri/aizdomigie-interneta-un-sazinas-objekti",
         "reason": "Aizdomīgie interneta un saziņas objekti",
         "added": "2024-11-08"
     },
     "ormebeles.online": {
-        "source": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
+        "author": "PTAC",
+        "reference": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
         "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
         "added": "2026-01-06"
     },
     "ormebeles.eu": {
-        "source": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
+        "author": "PTAC",
+        "reference": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
         "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
         "added": "2026-01-06"
     },
     "piedzivojumi.org": {
-        "source": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
-        "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
-        "added": "2026-01-06"
-    },
-    "piedzivojumi.info": {
-        "source": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
+        "author": "PTAC",
+        "reference": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
         "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
         "added": "2026-01-06"
     },
     "piedzivojums.lv": {
-        "source": "Manual",
+        "author": "Kopienas info",
+        "reference": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
         "reason": "Vietnes turētājs (Piedzīvojums X SIA, SIA “Tere”) iekļauts PTAC sarakstā ",
         "added": "2026-01-06"
     },
     "piedzivojumi.com": {
-        "source": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
+        "author": "PTAC",
+        "reference": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
         "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
         "added": "2026-01-06"
     },
     "sportnet.lv": {
-        "source": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
+        "author": "PTAC",
+        "reference": "https://registri.ptac.gov.lv/registri/vietnes-kuram-ierobezota-piekluve-elektronisko-sakaru-tikla",
         "reason": "Vietnes, kurām ierobežota piekļuve elektronisko sakaru tīklā",
         "added": "2026-01-06"
     }
 }
-
